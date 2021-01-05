@@ -1,0 +1,15 @@
+
+*{margin: 0;padding: 0;}
+.head{
+    width: 100%;
+    padding: 3% 5%;
+    background: dark;
+}
+.rt{
+    width: 50%;
+    float: left;
+}
+.h4-text{
+    color: cadetblue;
+    font-size: 30px;
+}
